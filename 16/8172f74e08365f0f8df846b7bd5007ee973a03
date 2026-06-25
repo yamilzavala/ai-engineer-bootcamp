@@ -1,0 +1,20 @@
+Question-Answering-models/QuestionAnswering.py
+  s_b876ef5cf2fba1::t_e614a77f31c347 59
+  s_b876ef5cf2fba1::t_ce085c06bb1783 35-57,60-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "168172f74e08365f0f8df846b7bd5007ee973a03",
+  "prompts": {},
+  "sessions": {
+    "s_b876ef5cf2fba1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d6001e17-394e-48cf-a419-4939d7b9f9c4",
+        "model": "default"
+      },
+      "human_author": "yazavala_meli <yamil.zavala@mercadolibre.com>"
+    }
+  }
+}
