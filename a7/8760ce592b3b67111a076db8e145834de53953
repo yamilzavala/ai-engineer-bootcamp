@@ -1,0 +1,19 @@
+LangChain-practice/langchain.py
+  s_65357ff470d447::t_d6d4b27de16aaf 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a78760ce592b3b67111a076db8e145834de53953",
+  "prompts": {},
+  "sessions": {
+    "s_65357ff470d447": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bc666bd9-510e-4dc3-b184-e439584b7ed8",
+        "model": "default"
+      },
+      "human_author": "yazavala_meli <yamil.zavala@mercadolibre.com>"
+    }
+  }
+}
